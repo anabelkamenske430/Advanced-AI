@@ -1,0 +1,12 @@
+Model 1 Optimization Results:
+baseline_accuracy: 0.8584369722094273
+baseline_f1: 0.7050543825975688
+optimized_accuracy: 0.8616612927990174
+optimized_f1: 0.6942653545978962
+
+Model 2 Optimization Results:
+baseline_accuracy: 0.968609865470852
+baseline_f1: 0.8669201520912547
+optimized_accuracy: 0.9802690582959641
+optimized_f1: 0.9214285714285714
+best_params: {'clf__alpha': 0.5, 'tfidf__min_df': 2, 'tfidf__ngram_range': (1, 1)}
